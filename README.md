@@ -12,7 +12,7 @@ A basic calculator that can perform addition, subtraction, multiplication, and d
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/simple-calculator.git
+    git clone https://github.com/aswin950/Simple-Calculator.git
     ```
 2. Navigate to the project directory:
     ```bash
